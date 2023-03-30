@@ -1,5 +1,5 @@
 ---
 license: creativeml-openrail-m
 tags:
-- not-for-all-eyes
+- not-for-all-audiences
 ---
